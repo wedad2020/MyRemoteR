@@ -1,3 +1,4 @@
 My file 6
 
 The is my new line 
+Test
